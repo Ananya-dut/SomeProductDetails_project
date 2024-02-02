@@ -1,0 +1,1 @@
+# SomeProductDetails_project
